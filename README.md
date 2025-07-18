@@ -8,6 +8,9 @@ Built with a React frontend and a Node.js/Express backend.
 to access the shop click this link https://myshop-git-main-daniel-mailus-projects.vercel.app/pos
 the project is hosted on vercel for frontend and render for the backendgit
 
+to access the admin panel use danmailur8@gmail.com password 12345678 
+after the review i will change the password for the user side you can create your own account
+
 
 
 ## Features
